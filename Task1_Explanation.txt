@@ -1,0 +1,29 @@
+Name: Nukala Pranith Reddy
+
+Email: pranithr572@gmail.com
+
+Internship: UI/UX Internship
+
+Task 1 – Landing Page Redesign
+
+
+
+Task 1 Before:-
+
+https://www.figma.com/design/nGWYrb4hOBvKr5R9Gksikx/Odho-Before?node-id=0-1&t=6XBAKxGNj8RIhvwI-1
+
+Task 1 After:-
+
+https://www.figma.com/design/IUTGDRpFku1RptRNO7RI5o/Odho-After?node-id=0-1&t=Tgg1Z6MC5cubgUhj-1
+
+
+Explanation:-
+
+The original landing page had a strong visual foundation but suffered from inconsistent spacing, dense sections, and limited visual hierarchy, which affected overall readability and user focus. In the redesigned version, the primary goal was to improve usability and aesthetics while preserving the original structure and branding.
+
+Spacing between sections was increased to create clearer separation of content, reducing visual clutter and making the page easier to scan. Typography was refined by slightly increasing heading sizes and adjusting line spacing in body text, which improves readability and helps users quickly understand key information. Call-to-action buttons were emphasized by enhancing contrast and spacing around them, ensuring they stand out and guide users toward important actions.
+
+Additionally, alignment and layout consistency were improved across sections such as features, statistics, and pricing to create a more balanced and organized appearance. The redesign focuses on improving clarity, user flow, and visual hierarchy without altering the core layout, resulting in a cleaner, more user-friendly, and visually appealing landing page.
+
+
+
