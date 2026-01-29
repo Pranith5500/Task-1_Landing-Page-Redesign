@@ -1,18 +1,18 @@
 # Task 1 – Landing Page Redesign (UI/UX)
 
-##Company Name
+## Company Name
 CODTECH IT SOLUTIONS
 
-##Intern Name
+## Intern Name
 Nukala Pranith Reddy
 
-##Intern ID
+## Intern ID
 CTIS1557
 
-##Email
+## Email
 pranithr572@gmail.com  
 
-##Domain
+## Domain
 UI/UX Internship  
 
 ---
