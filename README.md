@@ -13,7 +13,13 @@ CTIS1557
 pranithr572@gmail.com  
 
 ## Domain
-UI/UX Internship  
+UI/UX Internship 
+
+## Duration
+4 WEEKS
+
+## Mentor
+Neela Santhosh
 
 ---
 
